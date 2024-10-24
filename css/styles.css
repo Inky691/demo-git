@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.color-on {
+    color: green;
+}
+
+.color-off {
+    color: black;
+}
+
+.page{
+    display: flex;
+}
+
+.small{
+    margin-right: 150px;
+    margin-top: 15px;
+}
+
